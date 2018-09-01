@@ -33,7 +33,7 @@ public class MainTestCollections {
 		System.out.println(linkedStrings);
 		int numberLinked = linkedStrings.indexOf("Лариса");
 		System.out.println(numberLinked);
-		System.out.println("Пробую отправить в GitHub2, ну и че?");
+		System.out.println("Пробую отправить в GitHub2, ну и че?? fasdfads");
 		
 	}
 
